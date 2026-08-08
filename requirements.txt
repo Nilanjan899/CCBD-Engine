@@ -1,0 +1,4 @@
+streamlit>=1.30.0
+langchain-google-genai>=1.0.0
+langgraph>=0.0.20
+pydantic>=2.0.0
